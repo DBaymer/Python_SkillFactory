@@ -15,7 +15,7 @@ index_negative = None
 # print()
 # print("Индекс последнего отрицательного элемента =", index_negative)
 
-# А теперь тоже самое, только с функцией enumerate
+# А теперь то же самое, только с функцией enumerate
 
 for i, value in enumerate(list_):
     if value < 0:
