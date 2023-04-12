@@ -24,6 +24,5 @@ def win():
     if m[0][0] == 1:
         return "Win X"
 
-
 win()
 print(m[0][0])
