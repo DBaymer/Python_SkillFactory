@@ -1,5 +1,5 @@
-sum = 0
-n = 5
+s = 0
+n = 10
 for i in range(1, n + 1):
-    sum += i
-print(sum)
+    s += i
+print(s)
