@@ -11,5 +11,6 @@ def work(*nums):
 
 
 print(work())
+print(work(a))
 print(work(*a))
 print(work(1, 2, 3, 4, 5))
